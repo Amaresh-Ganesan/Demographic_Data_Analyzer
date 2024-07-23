@@ -10,7 +10,7 @@ This repository contains a Python script for analyzing demographic data from the
 - [Usage](#usage)
 - [Output](#output)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -84,6 +84,4 @@ The script will output the following information:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
